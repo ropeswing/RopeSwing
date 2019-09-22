@@ -1,0 +1,433 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/TJndW4P20TTMg2-tl5_4MtFPfh4\"",
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+   "totalResults": 200,
+   "resultsPerPage": 5
+  },
+  "items": [
+   {
+    "kind": "youtube#video",
+    "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/x4DwR0FiFMLqDsB7c-pcwcTCTgg\"",
+    "id": "9n6AyQ0TQeI",
+    "snippet": {
+     "publishedAt": "2019-08-09T21:04:53.000Z",
+     "channelId": "UCzwFZOhCfCZTgLruMz_RWCw",
+     "title": "SML Movie: Precious's Pillow Fort!",
+     "description": "Precious has taken over Junior's Pillow fort!\nhttp://www.smlmerch.com\n\nSUBSCRIBE to Chilly's channel\nhttps://www.youtube.com/user/superpeachlogan",
+     "thumbnails": {
+      "default": {
+       "url": "https://i.ytimg.com/vi/9n6AyQ0TQeI/default.jpg",
+       "width": 120,
+       "height": 90
+      },
+      "medium": {
+       "url": "https://i.ytimg.com/vi/9n6AyQ0TQeI/mqdefault.jpg",
+       "width": 320,
+       "height": 180
+      },
+      "high": {
+       "url": "https://i.ytimg.com/vi/9n6AyQ0TQeI/hqdefault.jpg",
+       "width": 480,
+       "height": 360
+      },
+      "standard": {
+       "url": "https://i.ytimg.com/vi/9n6AyQ0TQeI/sddefault.jpg",
+       "width": 640,
+       "height": 480
+      },
+      "maxres": {
+       "url": "https://i.ytimg.com/vi/9n6AyQ0TQeI/maxresdefault.jpg",
+       "width": 1280,
+       "height": 720
+      }
+     },
+     "channelTitle": "superbowserlogan",
+     "tags": [
+      "precious",
+      "pillow",
+      "fort",
+      "supermariologan",
+      "sml",
+      "movie",
+      "superbowserlogan",
+      "sbl",
+      "superluigilogan",
+      "sll",
+      "bowser junior",
+      "bowser jr",
+      "friends",
+      "cody",
+      "joseph",
+      "comedy",
+      "skit",
+      "laugh",
+      "cat",
+      "animal",
+      "super mario",
+      "video game",
+      "character",
+      "hilarious",
+      "catnip",
+      "logan",
+      "kitty",
+      "funny"
+     ],
+     "categoryId": "24",
+     "liveBroadcastContent": "none",
+     "localized": {
+      "title": "SML Movie: Precious's Pillow Fort!",
+      "description": "Precious has taken over Junior's Pillow fort!\nhttp://www.smlmerch.com\n\nSUBSCRIBE to Chilly's channel\nhttps://www.youtube.com/user/superpeachlogan"
+     }
+    },
+    "contentDetails": {
+     "duration": "PT10M19S",
+     "dimension": "2d",
+     "definition": "hd",
+     "caption": "false",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "statistics": {
+     "viewCount": "3648897",
+     "likeCount": "107931",
+     "dislikeCount": "7048",
+     "favoriteCount": "0",
+     "commentCount": "37697"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/4JNCSAgTYY8CKHC7jQII-OzVzgA\"",
+    "id": "0id2YRsRsB4",
+    "snippet": {
+     "publishedAt": "2019-08-10T08:10:27.000Z",
+     "channelId": "UCBXNpF6k2n8dsI6nBH8q4sQ",
+     "title": "FUNNY CURLY HAIR PROBLEMS || Girls With Curly Hair Struggles by 123 GO!",
+     "description": "If you’re someone who has thick, curly hair, then you know you’ve been blessed with the beautiful yet sometimes difficult task of maintaining it.\n\nGuess what, curly haired beauties — this video’s for you!\n\nCould relate to these curly whoas? Share this video with your other curly-headed besties to give them a laugh!\n\nAnd don’t forget to subscribe to 123 GO’s YouTube page for more relatable videos!\n\n#curly #funny #DIY\n\nMusic by Epidemic Sound: https://www.epidemicsound.com/\n\nStock materials: https://www.depositphotos.com https://www.shutterstock.com",
+     "thumbnails": {
+      "default": {
+       "url": "https://i.ytimg.com/vi/0id2YRsRsB4/default.jpg",
+       "width": 120,
+       "height": 90
+      },
+      "medium": {
+       "url": "https://i.ytimg.com/vi/0id2YRsRsB4/mqdefault.jpg",
+       "width": 320,
+       "height": 180
+      },
+      "high": {
+       "url": "https://i.ytimg.com/vi/0id2YRsRsB4/hqdefault.jpg",
+       "width": 480,
+       "height": 360
+      },
+      "standard": {
+       "url": "https://i.ytimg.com/vi/0id2YRsRsB4/sddefault.jpg",
+       "width": 640,
+       "height": 480
+      },
+      "maxres": {
+       "url": "https://i.ytimg.com/vi/0id2YRsRsB4/maxresdefault.jpg",
+       "width": 1280,
+       "height": 720
+      }
+     },
+     "channelTitle": "123 GO!",
+     "tags": [
+      "DIY",
+      "craft",
+      "crafts",
+      "prank",
+      "pranks",
+      "challenge",
+      "challenges",
+      "fun",
+      "funny",
+      "123GO!",
+      "123 go",
+      "123go",
+      "friends",
+      "friendly",
+      "tutorial",
+      "howto",
+      "how to"
+     ],
+     "categoryId": "22",
+     "liveBroadcastContent": "none",
+     "localized": {
+      "title": "FUNNY CURLY HAIR PROBLEMS || Girls With Curly Hair Struggles by 123 GO!",
+      "description": "If you’re someone who has thick, curly hair, then you know you’ve been blessed with the beautiful yet sometimes difficult task of maintaining it.\n\nGuess what, curly haired beauties — this video’s for you!\n\nCould relate to these curly whoas? Share this video with your other curly-headed besties to give them a laugh!\n\nAnd don’t forget to subscribe to 123 GO’s YouTube page for more relatable videos!\n\n#curly #funny #DIY\n\nMusic by Epidemic Sound: https://www.epidemicsound.com/\n\nStock materials: https://www.depositphotos.com https://www.shutterstock.com"
+     },
+     "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+     "duration": "PT7M12S",
+     "dimension": "2d",
+     "definition": "hd",
+     "caption": "false",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "statistics": {
+     "viewCount": "2120753",
+     "likeCount": "24284",
+     "dislikeCount": "4453",
+     "favoriteCount": "0",
+     "commentCount": "2637"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/7WZZXPfbGNkADxEEnHHIE2OzDRA\"",
+    "id": "N_8BuBflxUQ",
+    "snippet": {
+     "publishedAt": "2019-08-10T14:29:29.000Z",
+     "channelId": "UC-SJ6nODDmufqBzPBwCvYvQ",
+     "title": "Convicted sex offender Jeffrey Epstein died by apparent suicide overnight in a Manhattan jail cell",
+     "description": "Convicted sex offender Jeffrey Epstein died by apparent suicide overnight in a Manhattan jail cell. Epstein was being held without bail pending a trial on child sex trafficking charges. On Friday, thousands of pages of documents were unsealed in federal court from a lawsuit filed by a woman who claims Epstein kept her as a sex slave.\n\nWatch \"CBS This Morning\" HERE: http://bit.ly/1T88yAR\nDownload the CBS News app on iOS HERE: https://apple.co/1tRNnUy\nDownload the CBS News app on Android HERE: https://bit.ly/1IcphuX\nLike \"CBS This Morning\" on Facebook HERE: http://on.fb.me/1LhtdvI\nFollow \"CBS This Morning\" on Twitter HERE: http://bit.ly/1Xj5W3p\nFollow \"CBS This Morning\" on Instagram HERE: http://bit.ly/1Q7NGnY\nGet new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B \nEach weekday morning, \"CBS This Morning\" co-hosts Gayle King, Anthony Mason and Tony Dokoupil deliver two hours of original reporting, breaking news and top-level newsmaker interviews in an engaging and informative format that challenges the norm in network morning news programs. The broadcast has earned a prestigious Peabody Award, a Polk Award, four News & Documentary Emmys, three Daytime Emmys and the 2017 Edward R. Murrow Award for Best Newscast. The broadcast was also honored with an Alfred I. duPont-Columbia Award as part of CBS News division-wide coverage of the shootings at Sandy Hook Elementary School in Newtown, Connecticut. Check local listings for \"CBS This Morning\" broadcast times.",
+     "thumbnails": {
+      "default": {
+       "url": "https://i.ytimg.com/vi/N_8BuBflxUQ/default.jpg",
+       "width": 120,
+       "height": 90
+      },
+      "medium": {
+       "url": "https://i.ytimg.com/vi/N_8BuBflxUQ/mqdefault.jpg",
+       "width": 320,
+       "height": 180
+      },
+      "high": {
+       "url": "https://i.ytimg.com/vi/N_8BuBflxUQ/hqdefault.jpg",
+       "width": 480,
+       "height": 360
+      },
+      "standard": {
+       "url": "https://i.ytimg.com/vi/N_8BuBflxUQ/sddefault.jpg",
+       "width": 640,
+       "height": 480
+      },
+      "maxres": {
+       "url": "https://i.ytimg.com/vi/N_8BuBflxUQ/maxresdefault.jpg",
+       "width": 1280,
+       "height": 720
+      }
+     },
+     "channelTitle": "CBS This Morning",
+     "tags": [
+      "video",
+      "cbs",
+      "news",
+      "epstein",
+      "trail",
+      "child",
+      "sex trafficking",
+      "charges",
+      "suicide",
+      "dead",
+      "jail",
+      "watch",
+      "lawsuit"
+     ],
+     "categoryId": "25",
+     "liveBroadcastContent": "none",
+     "localized": {
+      "title": "Convicted sex offender Jeffrey Epstein died by apparent suicide overnight in a Manhattan jail cell",
+      "description": "Convicted sex offender Jeffrey Epstein died by apparent suicide overnight in a Manhattan jail cell. Epstein was being held without bail pending a trial on child sex trafficking charges. On Friday, thousands of pages of documents were unsealed in federal court from a lawsuit filed by a woman who claims Epstein kept her as a sex slave.\n\nWatch \"CBS This Morning\" HERE: http://bit.ly/1T88yAR\nDownload the CBS News app on iOS HERE: https://apple.co/1tRNnUy\nDownload the CBS News app on Android HERE: https://bit.ly/1IcphuX\nLike \"CBS This Morning\" on Facebook HERE: http://on.fb.me/1LhtdvI\nFollow \"CBS This Morning\" on Twitter HERE: http://bit.ly/1Xj5W3p\nFollow \"CBS This Morning\" on Instagram HERE: http://bit.ly/1Q7NGnY\nGet new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B \nEach weekday morning, \"CBS This Morning\" co-hosts Gayle King, Anthony Mason and Tony Dokoupil deliver two hours of original reporting, breaking news and top-level newsmaker interviews in an engaging and informative format that challenges the norm in network morning news programs. The broadcast has earned a prestigious Peabody Award, a Polk Award, four News & Documentary Emmys, three Daytime Emmys and the 2017 Edward R. Murrow Award for Best Newscast. The broadcast was also honored with an Alfred I. duPont-Columbia Award as part of CBS News division-wide coverage of the shootings at Sandy Hook Elementary School in Newtown, Connecticut. Check local listings for \"CBS This Morning\" broadcast times."
+     }
+    },
+    "contentDetails": {
+     "duration": "PT27S",
+     "dimension": "2d",
+     "definition": "hd",
+     "caption": "false",
+     "licensedContent": true,
+     "regionRestriction": {
+      "blocked": [
+       "CA",
+       "JP",
+       "AU"
+      ]
+     },
+     "projection": "rectangular"
+    },
+    "statistics": {
+     "viewCount": "1052812",
+     "likeCount": "4676",
+     "dislikeCount": "2583",
+     "favoriteCount": "0",
+     "commentCount": "7325"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/w5DxbvkFDJrlvWk6oNsA4qsOkTo\"",
+    "id": "28W5DNBVfa0",
+    "snippet": {
+     "publishedAt": "2019-08-10T15:30:16.000Z",
+     "channelId": "UCGCVyTWogzQ4D170BLy2Arw",
+     "title": "I Tried the Viral Exploding Nail Polish Remover and OMG (DO NOT BUY)",
+     "description": "\"I have never been terrified of nail polish in my life until now\"\n\nGot boring nails? Just add a Holo Taco 💿🌮 Sign up for email updates to be notified about restocks ➡️ http://holota.co/holothere1 \n♡ Subscribe to never miss n̶e̶w̶ ̶n̶a̶i̶l̶ ̶a̶r̶t̶ ̶t̶u̶t̶o̶r̶i̶a̶l̶s̶! http://bit.ly/subsimply\n♡ Subscribe to my SECOND CHANNEL for no reason: http://bit.ly/SubSimplyNot\n♡ Simply Swag Merch: http://bit.ly/SimplySwagSHOP1\n\nOther weird ways to remove your nail polish:\nhttp://bit.ly/PolishRemoverCream\nhttp://bit.ly/SprayRemoverWTF\n\nReferences:\nStripping rims video: https://www.youtube.com/watch?v=Wi1oEskI8DY\nStripping airplane video: https://www.youtube.com/watch?v=c8JsN_ApbJM\nhttps://www.facebook.com/doug.schoon/posts/10220162552278340\nhttps://www.cbsnews.com/news/dangerous-paint-stripper-chemical-methylene-chloride-ban-on-hold/\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n♡PRODUCTS USED IN THIS VIDEO:♡\n\n♥ I'm not linking to this \n\nGel polish: https://amzn.to/2GX0a7O\nGel polish LED curing lamp: https://amzn.to/2YXoLiL\n\nON MY OTHER HAND: Holo Taco 'Royal-Tea Blue' and 'Flakie 💿🌮'\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n♡TIPS & TRICKS:♡\n\n♥ HOW TO GROW YOUR NAILS: http://bit.ly/GrowYourNailsFAST\n♥ NAILS USING ONLY PRODUCTS I HATE: http://bit.ly/NailStuffiHate\n♥ GLITTER YOU'VE BEEN DOING WRONG: http://bit.ly/WRONGvsRIGHTGlitter\n♥ 20 NAIL ART HACKS: http://bit.ly/20DIYNailArtHacks\n♥ 10 French tip designs that aren't boring AF: http://bit.ly/NotBoringFrenchTips\n♥ Best peel-off base coat?: http://bit.ly/BestPeelOffBaseCoatVid\n♥ Best black polish?: http://bit.ly/BlackNails1\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n~ ~ ~ HAVE SOME FUN BEFORE YOU DIE ZONE ~ ~ ~\n\n♡MUSIC VIDEO PREMIERE♡\nSing the holo polish anthem with me:\nhttp://bit.ly/HoloItsMe\n\nROASTING YOUTUBERS' NAILS: http://bit.ly/RoastingYoutubersNails\n\nROASTING MY SUBSCRIBERS' NAILS: http://bit.ly/RoastingUrNails\n\n♡PAINTING A CAR WITH NAIL POLISH♡\nhttp://bit.ly/NailPolishCar\n\n♡POLISH MOUNTAIN 100 COATS OF REGRET♡\nhttp://bit.ly/POLISHMOUNTAIN\n\n♡POLISH MOUNTAIN THE SEQUEL♡\nhttp://bit.ly/ReturnToPOLISHMOUNTAIN\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nStalk me on all the social medias!\n\nhttp://www.simplynailogical.com\nhttp://instagram.com/simplynailogical\nhttps://www.snapchat.com/add/simplynailogica\nhttps://twitter.com/nailogical\nhttps://www.facebook.com/simplynailogical\nhttps://youtube.com/user/simplynailogical\nhttps://www.youtube.com/c/simplynotlogical\nhttp://simplynailogical.tumblr.com/\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nI film my nail videos with this camera: http://amzn.to/1Mgznht\nThis 105mm macro lens: http://amzn.to/1Pi8PM3\nI film my face videos with this camera: http://amzn.to/2kgHIgU\nThis 24-70mm lens: http://amzn.to/2gXJpxQ\n\nI edit my videos with: http://bit.ly/videoeditor1\nI get some cool editing filters from: https://motionvfx.sjv.io/Ze3bR\n\nVoiceover mic: http://amzn.to/1MefGpG\nOn-camera shotgun mic: http://amzn.to/1HA9nz2\nExternal mic: http://amzn.to/2cU7t3j\nRing light for face-cams: http://amzn.to/2cU7cNO\n\nCheck out my personalized Amazon page with stuff I like! https://www.amazon.com/shop/simplynailogical\n\nSee how to make your own amazing nail videos here: http://youtu.be/6k_GW0aso_k\n\nMusic: http://share.epidemicsound.com/SIMPLY\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nDisclaimer cause I love you guys: This video was not sponsored by any of the brands mentioned. All opinions are my own. Some links above are affiliate links.",
+     "thumbnails": {
+      "default": {
+       "url": "https://i.ytimg.com/vi/28W5DNBVfa0/default.jpg",
+       "width": 120,
+       "height": 90
+      },
+      "medium": {
+       "url": "https://i.ytimg.com/vi/28W5DNBVfa0/mqdefault.jpg",
+       "width": 320,
+       "height": 180
+      },
+      "high": {
+       "url": "https://i.ytimg.com/vi/28W5DNBVfa0/hqdefault.jpg",
+       "width": 480,
+       "height": 360
+      },
+      "standard": {
+       "url": "https://i.ytimg.com/vi/28W5DNBVfa0/sddefault.jpg",
+       "width": 640,
+       "height": 480
+      },
+      "maxres": {
+       "url": "https://i.ytimg.com/vi/28W5DNBVfa0/maxresdefault.jpg",
+       "width": 1280,
+       "height": 720
+      }
+     },
+     "channelTitle": "Simply Nailogical",
+     "tags": [
+      "nails",
+      "nail art",
+      "nail tutorial",
+      "beauty tutorial",
+      "nail art tutorial",
+      "diy nails",
+      "diy nail art",
+      "simply nailogical",
+      "cristine",
+      "vanish polish",
+      "magic burst",
+      "bursting nail polish",
+      "remove gel polish",
+      "weird nail polish hacks",
+      "amazon safe",
+      "magic remover",
+      "magic nail polish remover",
+      "viral facebook post",
+      "viral facebook ad",
+      "paint stripper",
+      "aircraft stripper",
+      "kleanstrip",
+      "unsafe cosmetics",
+      "exploding nail polish",
+      "facebook scam"
+     ],
+     "categoryId": "24",
+     "liveBroadcastContent": "none",
+     "defaultLanguage": "en",
+     "localized": {
+      "title": "I Tried the Viral Exploding Nail Polish Remover and OMG (DO NOT BUY)",
+      "description": "\"I have never been terrified of nail polish in my life until now\"\n\nGot boring nails? Just add a Holo Taco 💿🌮 Sign up for email updates to be notified about restocks ➡️ http://holota.co/holothere1 \n♡ Subscribe to never miss n̶e̶w̶ ̶n̶a̶i̶l̶ ̶a̶r̶t̶ ̶t̶u̶t̶o̶r̶i̶a̶l̶s̶! http://bit.ly/subsimply\n♡ Subscribe to my SECOND CHANNEL for no reason: http://bit.ly/SubSimplyNot\n♡ Simply Swag Merch: http://bit.ly/SimplySwagSHOP1\n\nOther weird ways to remove your nail polish:\nhttp://bit.ly/PolishRemoverCream\nhttp://bit.ly/SprayRemoverWTF\n\nReferences:\nStripping rims video: https://www.youtube.com/watch?v=Wi1oEskI8DY\nStripping airplane video: https://www.youtube.com/watch?v=c8JsN_ApbJM\nhttps://www.facebook.com/doug.schoon/posts/10220162552278340\nhttps://www.cbsnews.com/news/dangerous-paint-stripper-chemical-methylene-chloride-ban-on-hold/\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n♡PRODUCTS USED IN THIS VIDEO:♡\n\n♥ I'm not linking to this \n\nGel polish: https://amzn.to/2GX0a7O\nGel polish LED curing lamp: https://amzn.to/2YXoLiL\n\nON MY OTHER HAND: Holo Taco 'Royal-Tea Blue' and 'Flakie 💿🌮'\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n♡TIPS & TRICKS:♡\n\n♥ HOW TO GROW YOUR NAILS: http://bit.ly/GrowYourNailsFAST\n♥ NAILS USING ONLY PRODUCTS I HATE: http://bit.ly/NailStuffiHate\n♥ GLITTER YOU'VE BEEN DOING WRONG: http://bit.ly/WRONGvsRIGHTGlitter\n♥ 20 NAIL ART HACKS: http://bit.ly/20DIYNailArtHacks\n♥ 10 French tip designs that aren't boring AF: http://bit.ly/NotBoringFrenchTips\n♥ Best peel-off base coat?: http://bit.ly/BestPeelOffBaseCoatVid\n♥ Best black polish?: http://bit.ly/BlackNails1\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n~ ~ ~ HAVE SOME FUN BEFORE YOU DIE ZONE ~ ~ ~\n\n♡MUSIC VIDEO PREMIERE♡\nSing the holo polish anthem with me:\nhttp://bit.ly/HoloItsMe\n\nROASTING YOUTUBERS' NAILS: http://bit.ly/RoastingYoutubersNails\n\nROASTING MY SUBSCRIBERS' NAILS: http://bit.ly/RoastingUrNails\n\n♡PAINTING A CAR WITH NAIL POLISH♡\nhttp://bit.ly/NailPolishCar\n\n♡POLISH MOUNTAIN 100 COATS OF REGRET♡\nhttp://bit.ly/POLISHMOUNTAIN\n\n♡POLISH MOUNTAIN THE SEQUEL♡\nhttp://bit.ly/ReturnToPOLISHMOUNTAIN\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nStalk me on all the social medias!\n\nhttp://www.simplynailogical.com\nhttp://instagram.com/simplynailogical\nhttps://www.snapchat.com/add/simplynailogica\nhttps://twitter.com/nailogical\nhttps://www.facebook.com/simplynailogical\nhttps://youtube.com/user/simplynailogical\nhttps://www.youtube.com/c/simplynotlogical\nhttp://simplynailogical.tumblr.com/\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nI film my nail videos with this camera: http://amzn.to/1Mgznht\nThis 105mm macro lens: http://amzn.to/1Pi8PM3\nI film my face videos with this camera: http://amzn.to/2kgHIgU\nThis 24-70mm lens: http://amzn.to/2gXJpxQ\n\nI edit my videos with: http://bit.ly/videoeditor1\nI get some cool editing filters from: https://motionvfx.sjv.io/Ze3bR\n\nVoiceover mic: http://amzn.to/1MefGpG\nOn-camera shotgun mic: http://amzn.to/1HA9nz2\nExternal mic: http://amzn.to/2cU7t3j\nRing light for face-cams: http://amzn.to/2cU7cNO\n\nCheck out my personalized Amazon page with stuff I like! https://www.amazon.com/shop/simplynailogical\n\nSee how to make your own amazing nail videos here: http://youtu.be/6k_GW0aso_k\n\nMusic: http://share.epidemicsound.com/SIMPLY\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nDisclaimer cause I love you guys: This video was not sponsored by any of the brands mentioned. All opinions are my own. Some links above are affiliate links."
+     },
+     "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+     "duration": "PT18M58S",
+     "dimension": "2d",
+     "definition": "hd",
+     "caption": "false",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "statistics": {
+     "viewCount": "3008558",
+     "likeCount": "174664",
+     "dislikeCount": "1677",
+     "favoriteCount": "0",
+     "commentCount": "9829"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/Hy1UUuc-y6KWyzqjXcIUrTVLJZ0\"",
+    "id": "fx4FxgkDcyc",
+    "snippet": {
+     "publishedAt": "2019-08-10T18:00:07.000Z",
+     "channelId": "UC7_YxT-KID8kRbqZo7MyscQ",
+     "title": "Try NOT to Play Minecraft CHALLENGE",
+     "description": "Come on Markiplier, just play Minecraft! Everyone's doing it! Don't you wanna be COOL? You're not a SQUARE are ya?\nEDITED BY ► LIXIAN https://www.youtube.com/user/LixianTV",
+     "thumbnails": {
+      "default": {
+       "url": "https://i.ytimg.com/vi/fx4FxgkDcyc/default.jpg",
+       "width": 120,
+       "height": 90
+      },
+      "medium": {
+       "url": "https://i.ytimg.com/vi/fx4FxgkDcyc/mqdefault.jpg",
+       "width": 320,
+       "height": 180
+      },
+      "high": {
+       "url": "https://i.ytimg.com/vi/fx4FxgkDcyc/hqdefault.jpg",
+       "width": 480,
+       "height": 360
+      },
+      "standard": {
+       "url": "https://i.ytimg.com/vi/fx4FxgkDcyc/sddefault.jpg",
+       "width": 640,
+       "height": 480
+      },
+      "maxres": {
+       "url": "https://i.ytimg.com/vi/fx4FxgkDcyc/maxresdefault.jpg",
+       "width": 1280,
+       "height": 720
+      }
+     },
+     "channelTitle": "Markiplier",
+     "tags": [
+      "minecraft",
+      "markiplier",
+      "try not to play minecraft challenge",
+      "markiplier minecraft",
+      "funny",
+      "funny video",
+      "gaming",
+      "try not to",
+      "challenge",
+      "sketch",
+      "sketch comedy",
+      "silly",
+      "stupid",
+      "creeper",
+      "roblox",
+      "oof"
+     ],
+     "categoryId": "20",
+     "liveBroadcastContent": "none",
+     "defaultLanguage": "en",
+     "localized": {
+      "title": "Try NOT to Play Minecraft CHALLENGE",
+      "description": "Come on Markiplier, just play Minecraft! Everyone's doing it! Don't you wanna be COOL? You're not a SQUARE are ya?\nEDITED BY ► LIXIAN https://www.youtube.com/user/LixianTV"
+     },
+     "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+     "duration": "PT2M34S",
+     "dimension": "2d",
+     "definition": "hd",
+     "caption": "false",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "statistics": {
+     "viewCount": "929772",
+     "likeCount": "116534",
+     "dislikeCount": "1152",
+     "favoriteCount": "0",
+     "commentCount": "29116"
+    }
+   }
+  ]
+ }
+ 

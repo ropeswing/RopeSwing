@@ -15,7 +15,7 @@ const returnResults = [
   { name: "Ayomide Best", liked: false, outerCircle: 110, innerCircle: 2, id: 9932, key:"5" },
 ];
 
-export default class Profile extends Component{
+export default class OtherPerson extends Component{
   state = {
     selectedPerson:{},
     itemDate: new Date(),
@@ -57,23 +57,10 @@ export default class Profile extends Component{
               </Text>
             </View>
             <View style={{padding:12, flex:1}}>  
-              <FontAwesomeIcon style={{alignSelf:"flex-end"}} color={'#fce181'} size={32} icon={['far', "edit"]} onPress={()=> this.props.navigation.navigate("Personal")}/>
+              <FontAwesomeIcon style={{alignSelf:"flex-end"}} color={'#fce181'} size={32} icon={['fa', "user-plus"]} onPress={()=> this.props.navigation.navigate("Personal")}/>
             </View>
           </View>
 
-          <View style={{display:"flex", flexDirection:"row", justifyContent:"space-around"}}>
-            <View style={{padding:12, flex:5 }}>      
-              <Text>
-                <Text style={{color:'#fce181', fontSize:24 }}>{`Your Interests:\n`}</Text>
-                <Text>{this.buildInterests()}</Text>
-              </Text>  
-            </View>
-          
-            <View style={{padding:12, flex:1}}>  
-              <FontAwesomeIcon style={{alignSelf:"flex-end", marginTop:18}} color={'#fce181'} size={32} icon={['far', "edit"]} onPress={()=> this.props.navigation.navigate("Interests")}/>
-            </View>
-
-          </View>
           
           
         </ScrollView >
