@@ -25,26 +25,14 @@ export default class Profile extends Component{
   };
   
   componentDidMount = () =>{
-    console.log("didMount",  this.props.navigation.getParam("userId"))
     this.setState({selectedPerson: returnResults.find(item => item.id === this.props.navigation.getParam("userId", 1))});
   };
-  componentWillReceiveProps= newProps =>{
-    this.setState({selectedPerson: returnResults.find(item => item.id === newProps.navigation.getParam("userId", 1))});
-  }
-  componentWillUpdate = arg => {
-    console.log("will update", arg.navigation.getParam("userId"))  
-  }
-  componentDidUpdate=arg=>{
-    console.log("did update", arg.navigation.getParam("userId"))
-    console.log("did update", this.state.selectedPerson.id)
-  }
 
   buildInterests = () => {
     let temp = this.state.returnedIcons.join(", ");
     return temp;
   }
   render(){  
-  console.log("render") 
     return(
       <View style={styleMain.container}>        
         <NavDrawer navigation={this.props.navigation} title={this.props.title}/>

@@ -3,37 +3,38 @@ import {StyleSheet, FlatList, PanResponder, View, Animated, Dimensions, Image, T
 import NavDrawer from "../../components/NavDrawer";
 import styleMain from '../../styles/Main.style.js';
 import SinglePerson from "../../components/SingleInnerCircle";
+import createGuid from '../../util/guidMaker'
 
 
 const returnResults = [
-  { name: "Dalton Whitaker", liked: true, outerCircle: 654, innerCircle: 34, id: 123, key:"1"},
-  { name: "Marcelina Dominguez", liked: false, outerCircle: 349, innerCircle: 12, id: 379, key:"2" },
-  { name: "Tommie Cullen", liked: false, outerCircle: 3663, innerCircle: 18, id: 874, key:"4" },
-  { name: "Yvette Mcpherson", liked: true, outerCircle: 127, innerCircle: 42, id: 342, key:"3" },
-  { name: "Ayomide Best", liked: false, outerCircle: 110, innerCircle: 2, id: 9932, key:"5" },
-  { name: "Dalton Whitaker", liked: true, outerCircle: 654, innerCircle: 34, id: 123, key:"1"},
-  { name: "Marcelina Dominguez", liked: false, outerCircle: 349, innerCircle: 12, id: 379, key:"2" },
-  { name: "Tommie Cullen", liked: false, outerCircle: 3663, innerCircle: 18, id: 874, key:"4" },
-  { name: "Yvette Mcpherson", liked: true, outerCircle: 127, innerCircle: 42, id: 342, key:"3" },
-  { name: "Ayomide Best", liked: false, outerCircle: 110, innerCircle: 2, id: 9932, key:"5" },
-  { name: "Dalton Whitaker", liked: true, outerCircle: 654, innerCircle: 34, id: 123, key:"1"},
-  { name: "Marcelina Dominguez", liked: false, outerCircle: 349, innerCircle: 12, id: 379, key:"2" },
-  { name: "Tommie Cullen", liked: false, outerCircle: 3663, innerCircle: 18, id: 874, key:"4" },
-  { name: "Yvette Mcpherson", liked: true, outerCircle: 127, innerCircle: 42, id: 342, key:"3" },
-  { name: "Ayomide Best", liked: false, outerCircle: 110, innerCircle: 2, id: 9932, key:"5" },
-  { name: "Dalton Whitaker", liked: true, outerCircle: 654, innerCircle: 34, id: 123, key:"1"},
-  { name: "Marcelina Dominguez", liked: false, outerCircle: 349, innerCircle: 12, id: 379, key:"2" },
-  { name: "Tommie Cullen", liked: false, outerCircle: 3663, innerCircle: 18, id: 874, key:"4" },
-  { name: "Yvette Mcpherson", liked: true, outerCircle: 127, innerCircle: 42, id: 342, key:"3" },
-  { name: "Ayomide Best", liked: false, outerCircle: 110, innerCircle: 2, id: 9932, key:"5" },
-  { name: "Ayomide Best", liked: false, outerCircle: 110, innerCircle: 2, id: 9932, key:"5" },
-  { name: "Dalton Whitaker", liked: true, outerCircle: 654, innerCircle: 34, id: 123, key:"1"},
+  { name: "Dalton Whitaker", liked: true, outerCircle: 654, innerCircle: 34, id: 123, key:createGuid()},
+  { name: "Marcelina Dominguez", liked: false, outerCircle: 349, innerCircle: 12, id: 379, key:createGuid() },
+  { name: "Tommie Cullen", liked: false, outerCircle: 3663, innerCircle: 18, id: 874, key:createGuid() },
+  { name: "Yvette Mcpherson", liked: true, outerCircle: 127, innerCircle: 42, id: 342, key:createGuid() },
+  { name: "Ayomide Best", liked: false, outerCircle: 110, innerCircle: 2, id: 9932, key:createGuid() },
+  { name: "Dalton Whitaker", liked: true, outerCircle: 654, innerCircle: 34, id: 123, key:createGuid()},
+  { name: "Marcelina Dominguez", liked: false, outerCircle: 349, innerCircle: 12, id: 379, key:createGuid() },
+  { name: "Tommie Cullen", liked: false, outerCircle: 3663, innerCircle: 18, id: 874, key:createGuid() },
+  { name: "Yvette Mcpherson", liked: true, outerCircle: 127, innerCircle: 42, id: 342, key:createGuid() },
+  { name: "Ayomide Best", liked: false, outerCircle: 110, innerCircle: 2, id: 9932, key:createGuid() },
+  { name: "Dalton Whitaker", liked: true, outerCircle: 654, innerCircle: 34, id: 123, key:createGuid()},
+  { name: "Marcelina Dominguez", liked: false, outerCircle: 349, innerCircle: 12, id: 379, key:createGuid() },
+  { name: "Tommie Cullen", liked: false, outerCircle: 3663, innerCircle: 18, id: 874, key:createGuid() },
+  { name: "Yvette Mcpherson", liked: true, outerCircle: 127, innerCircle: 42, id: 342, key:createGuid() },
+  { name: "Ayomide Best", liked: false, outerCircle: 110, innerCircle: 2, id: 9932, key:createGuid() },
+  { name: "Dalton Whitaker", liked: true, outerCircle: 654, innerCircle: 34, id: 123, key:createGuid()},
+  { name: "Marcelina Dominguez", liked: false, outerCircle: 349, innerCircle: 12, id: 379, key:createGuid() },
+  { name: "Tommie Cullen", liked: false, outerCircle: 3663, innerCircle: 18, id: 874, key:createGuid() },
+  { name: "Yvette Mcpherson", liked: true, outerCircle: 127, innerCircle: 42, id: 342, key:createGuid() },
+  { name: "Ayomide Best", liked: false, outerCircle: 110, innerCircle: 2, id: 9932, key:createGuid() },
+  { name: "Ayomide Best", liked: false, outerCircle: 110, innerCircle: 2, id: 9932, key:createGuid() },
+  { name: "Dalton Whitaker", liked: true, outerCircle: 654, innerCircle: 34, id: 123, key:createGuid()},
 ];
 
 export default class InnderCircleList extends Component{
 
-  goToPerson = arg => {
-    console.log(arg)
+  goToPerson = (arg, key) => {
+    console.log(arg, key)
     this.props.navigation.navigate("OtherPerson", {userId: arg})
   }
 
@@ -51,6 +52,7 @@ render(){
               clickNav = {this.goToPerson}
               title={item.name}
               id={item.id}
+              theKey={item.key}
               innerCircle={item.innerCircle}
               outerCircle={item.outerCircle}
             />
