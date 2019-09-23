@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Image, StyleSheet, Text, TouchableHighlight } from 'react-native';
-
+import guid from '../util/guidMaker';
 
 
 export default class SingleListItem extends React.Component{  
@@ -18,7 +18,7 @@ export default class SingleListItem extends React.Component{
   }
   render(){
     return(
-      <TouchableHighlight onPress={() => console.log(this.props.title)} underlayColor='#026670'>
+      <TouchableHighlight onPress={() => console.log(this.props.title)} underlayColor='#026670' style={{marginBottom:6}}>
           <View style={[{ justifyContent:'space-between', flexDirection: 'row' }]}>
             <View>
                 <Text style={

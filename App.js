@@ -4,6 +4,8 @@ import { createAppContainer, DrawerNavigator } from "react-navigation";
 import { createDrawerNavigator, DrawerNavigatorItems } from 'react-navigation-drawer';
 import { Appbar, Drawer } from "react-native-paper";
 import { SafeAreaView } from "react-navigation";
+import { Provider } from 'react-redux';
+import store from './redux/store';
 
 //PAGES
 import CircleNav from './pages/circleNav/CircleNav';
@@ -13,6 +15,7 @@ import Personal from './pages/profile/personals'
 import InnerCircle from './pages/innerCircle/InnerCircle'
 import Interests from "./pages/categoryList/CategoryList"
 import OtherPerson from "./pages/profile/otherPerson";
+import Simple from "./pages/working/simple";
 
 
 //FONTS
@@ -55,7 +58,7 @@ const Menu = createDrawerNavigator(
  
   {
     FindEvent: { screen: (props) => <CircleNav {...props} title="Find an event"/>, navigationOptions: {drawerLabel: 'Find an event'} } ,
-    NewItem: { screen: (props) => <NewItem {...props} title="Add an item"/>, navigationOptions: {drawerLabel: 'Add an item'} } ,
+    NewItem: { screen: (props) => <NewItem {...props} title="Add an item"/>, navigationOptions: {drawerLabel: 'Add an item'}, params:{type:'book'} } ,
     Profile: { screen: (props) => <Profile {...props} title="Profile"/>, path: '1', params: {userId:1}, navigationOptions: {drawerLabel: 'View your profile'}  } ,
     InnerCircle: { screen: (props) => <InnerCircle {...props} title="Your inner circle"/>, navigationOptions: {drawerLabel: 'View your inner circle'} } ,
     OuterCircle: { screen: (props) => <InnerCircle {...props} title="Your outer circle"/>, navigationOptions: {drawerLabel: 'View your outer circle'} } ,
@@ -82,15 +85,13 @@ const Menu = createDrawerNavigator(
 
 const AppNav = createAppContainer(Menu);
 export default function App() {
-  
   return (  
-    <PaperProvider theme={theme}>
-      {/* <CircelNav/>       */}
-      {/* <NewItem/> */}
-      <AppNav/>
-      {/* <Search/> */}
-
-    </PaperProvider>
+    <Provider store={store}>      
+      {/* <Simple/> */}
+      <PaperProvider theme={theme}>        
+        <AppNav/>
+      </PaperProvider>
+    </Provider>
   );
 }
 

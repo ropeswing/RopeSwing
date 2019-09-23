@@ -19,7 +19,6 @@ export default class CategoryList extends Component{
     ]
   }
   componentDidMount = () =>{
-    console.log(this.props)
   }
 
   render(){    

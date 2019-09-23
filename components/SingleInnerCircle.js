@@ -13,7 +13,7 @@ export default class SingleInnerCircle extends React.Component{
   
   render(){
     return(
-      <TouchableHighlight onPress={()=> {this.props.clickNav(this.props.id)}} underlayColor='#026670'>
+      <TouchableHighlight onPress={()=> {this.props.clickNav(this.props.id, this.props.theKey)}} underlayColor='#026670'>
           <View style={[{ justifyContent:'space-between', flexDirection: 'row' }]}>
             <View>
                 <Text style={
